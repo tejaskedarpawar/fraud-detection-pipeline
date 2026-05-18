@@ -1,0 +1,8 @@
+creditcard.csv
+phase1_data.pkl
+fraud_model.pkl
+__pycache__/
+*.pyc
+.env
+data/
+*.log
