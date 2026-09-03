@@ -92,7 +92,7 @@ fraud-detection-pipeline/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/fraud-detection-pipeline.git
+git clone https://github.com/tejaskedarpawar/fraud-detection-pipeline.git
 cd fraud-detection-pipeline
 
 # Train the model first (requires creditcard.csv from Kaggle)
